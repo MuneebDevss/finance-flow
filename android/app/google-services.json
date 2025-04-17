@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552225823406",
+    "project_id": "personal-finance-manager-22200",
+    "storage_bucket": "personal-finance-manager-22200.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552225823406:android:8a52d4ff555cc9975f6b3f",
+        "android_client_info": {
+          "package_name": "com.example.finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vZgYUczvaQHBp4GolI7aoOk1G_bxm1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

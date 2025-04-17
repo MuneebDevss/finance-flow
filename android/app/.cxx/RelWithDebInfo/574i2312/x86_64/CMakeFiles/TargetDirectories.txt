@@ -1,0 +1,2 @@
+D:/opensource/finance/android/app/.cxx/RelWithDebInfo/574i2312/x86_64/CMakeFiles/edit_cache.dir
+D:/opensource/finance/android/app/.cxx/RelWithDebInfo/574i2312/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# Ensure images are treated as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+
+# Prevent line-ending conversion for binary files
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.gif -text
+*.webp -text
