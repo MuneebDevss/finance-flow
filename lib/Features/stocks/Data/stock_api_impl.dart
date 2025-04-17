@@ -6,7 +6,7 @@ import 'dart:convert';
 
 final String apiKey = 'E7VGEB1DL8GTREMX'; // Replace with your API key
 final String apiKey2 = 'QOQAIENNIT4JT7RK';
-
+// need fixing
 // class StockPriceService implements PriceFetchService {
 //   @override
 //   Future<double> fetchPrice(String symbol) async {
